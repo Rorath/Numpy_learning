@@ -49,3 +49,6 @@ print(l+2)
 print(l%2)
 l += m
 print(l)
+
+def what():
+    print('what')

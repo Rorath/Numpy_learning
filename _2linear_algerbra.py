@@ -1,4 +1,5 @@
 #matrix multiplication
+import numpy
 import numpy as np
 a = np.full((2,2), 9)
 b = np.full((2,3), 3)
