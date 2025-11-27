@@ -41,7 +41,7 @@ print(k)
 
 #np.array also preserves mutable so be careful about mutable and immutable
 #a = b means a and b referring to same list
-#a = b.copy() create a shallow copy
+#a = b.copy() create a shadow copy
 
 #+ - * / // %
 l = np.array([1,2,3]); m = np.array([4,5,6])
